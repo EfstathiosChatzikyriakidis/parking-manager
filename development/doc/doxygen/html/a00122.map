@@ -1,0 +1,3 @@
+<area shape="rect" href="$a00004.html" title="{EmptyDateEdit\n|+ emptyDate\l|+ EmptyDateEdit()\l+ EmptyDateEdit()\l+ ~EmptyDateEdit()\l+ emptyDate()\l+ clear\l+ setDate\l}" alt="" coords="5,5,141,165">
+<area shape="rect" href="$a00005.html" title="{EmptyTimeEdit\n|+ emptyTime\l|+ EmptyTimeEdit()\l+ EmptyTimeEdit()\l+ ~EmptyTimeEdit()\l+ emptyTime()\l+ clear\l+ setTime\l}" alt="" coords="165,5,304,165">
+<area shape="rect" href="$a00001.html" title="{appSettings\n|+ parkingCapacity\l+ timeslice\l+ chargePerTimeslice\l+ chargePrecision\l|}" alt="" coords="328,21,475,149">

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/graphics/splashscreen">
+        <file alias="splash">resources/graphics/splashscreen/splash.png</file>
+    </qresource>
+    <qresource prefix="/graphics/window">
+        <file alias="window-icon">resources/graphics/window/window-icon.png</file>
+        <file alias="about-icon">resources/graphics/window/about-icon.png</file>
+    </qresource>
+    <qresource prefix="/graphics/paywizard">
+        <file alias="watermark">resources/graphics/paywizard/watermark.png</file>
+    </qresource>
+</RCC>
