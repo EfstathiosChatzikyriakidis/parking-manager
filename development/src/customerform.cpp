@@ -1,7 +1,7 @@
 /*
  *  This file implements the customer gui form and data model.
  *
- *  Copyright (C) 2010  Efstathios Chatzikyriakidis (contact@efxa.org)
+ *  Copyright (C) 2010  Efstathios Chatzikyriakidis (stathis.chatzikyriakidis@gmail.com)
  *
  *  This program is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by

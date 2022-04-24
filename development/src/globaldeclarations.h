@@ -56,7 +56,7 @@ static const QString cantWriteSetsStr  = QObject::tr("Application Cannot Use Set
 static const QString sqlInjectCustStr  = QObject::tr("Please remove any character symbols from the customer name.");
 static const QString sqlInjectVehiStr  = QObject::tr("Please remove any character symbols from the vehicle name.");
 
-static const QString appCopyright = QObject::tr("Copyright (C) 2010  Efstathios Chatzikyriakidis (contact@efxa.org)");
+static const QString appCopyright = QObject::tr("Copyright (C) 2010  Efstathios Chatzikyriakidis (stathis.chatzikyriakidis@gmail.com)");
 static const QString appName      = QObject::tr("Parking Manager");
 static const QString appVersion   = QObject::tr("1.0");
 
